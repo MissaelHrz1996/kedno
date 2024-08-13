@@ -1,0 +1,2 @@
+# kedno
+Git trainning
